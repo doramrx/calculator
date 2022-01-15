@@ -11,6 +11,12 @@
   color: #F2F2F2;
   font-family: "Helvetica Neue",Helvetica,Arial;
   text-align: center;
+  padding: 51px;
+  padding-right: 53px;
+}
+
+a{
+  text-decoration: none;
 }
 
 .calculator{
@@ -36,7 +42,7 @@
 }
 
 .button:hover{
-  background-color: #5F3073;
+  background-color: #2f15409a;
   color: #F2F2F2;
 }
 
@@ -49,4 +55,12 @@
   color: #5F3073;
   text-align: right;
   padding: 5px;
+}
+
+.github-contact-link {
+  text-decoration: none;
+  margin: 0;
+  font-weight: 700;
+  font-size: 25px;
+  color: #F2F2F2;
 }
